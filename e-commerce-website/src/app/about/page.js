@@ -1,7 +1,6 @@
-// src/app/about/page.js
 import Image from 'next/image';
 import Head from 'next/head';
-import aboutImage from '../../public/images/about-us.jpg'; // تأكد من تحديث المسار حسب الحاجة
+import aboutImage from '../../public/images/about-us.jpg';
 
 const AboutPage = () => {
   return (
